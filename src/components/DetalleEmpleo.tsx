@@ -1,6 +1,6 @@
 import React from 'react';
 
-const JobDetail: React.FC = () => {
+const DetalleEmpleo: React.FC = () => {
   // TODO: Página de detalle de aviso
   return (
     <div>
@@ -10,4 +10,4 @@ const JobDetail: React.FC = () => {
   );
 };
 
-export default JobDetail;
+export default DetalleEmpleo;
